@@ -1,4 +1,4 @@
-# DateC Counter
+# Date Counter
 
 The challenge which allows practicing with `useState`
 
